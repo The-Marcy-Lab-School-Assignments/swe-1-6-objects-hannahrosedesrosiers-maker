@@ -75,6 +75,7 @@ Write a function `coolGreeting()` that takes a single argument: an object `perso
 ```js
 {
   name: 'Sara',
+  
   bio: 'Too cool 4 skool.',
   age: 32,
   isCool: true
